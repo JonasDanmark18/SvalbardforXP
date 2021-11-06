@@ -1,2 +1,6 @@
-# SvalbardforXP
-Svalbard recreation for X-Plane 11. Made by HrJonas. Thanks to creator of Ortho4XP Oscar Pilote and Christoph Hormann from VIEWFINDER PANORAMAS
+# SvalbardXP11
+
+SvalbardXP11 is a freeware scenery addon for the flight simulator X-Plane 11 by Laminar Research
+
+
+Discord link for (my own) X-Plane 11 development community https://discord.gg/9AktYzhS9S.
